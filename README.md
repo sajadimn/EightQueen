@@ -1,2 +1,2 @@
 # EightQueen
-Algorithm
+Unity
